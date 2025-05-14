@@ -1,0 +1,9 @@
+api:
+    user: <...>
+    pass: <...>
+    
+url: <...>
+
+logging:
+    version: 1
+    logger: console
