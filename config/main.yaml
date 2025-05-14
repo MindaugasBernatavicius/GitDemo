@@ -1,9 +1,0 @@
-api:
-    user: user_blah
-    pass: wfiuweh212344t98941!!!``fr
-    
-url: https://a.com
-
-logging:
-    version: 1
-    logger: console
