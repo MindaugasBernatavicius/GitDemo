@@ -3,5 +3,8 @@ def main():
   print("Hello world!")
 
 
+def some_f():
+  pass
+
 if __name__ == '__main__':
   main()
